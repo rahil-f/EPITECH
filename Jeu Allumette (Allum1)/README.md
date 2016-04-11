@@ -10,14 +10,14 @@ The loser is the one who takes the last match.
 
 the basic mode with AI.
 
-bonus:
+Bonus:
 
-we read the rule.
+We read the rule.
 
-you can play player vs player.
+You can play player vs player.
 
-player vs AI.
+Player vs AI.
 
 AI vs AI.
 
-usage: ./allum1
+Usage: ./allum1
