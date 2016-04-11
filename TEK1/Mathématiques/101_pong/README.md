@@ -1,3 +1,5 @@
+This project was made by my partner (grella_c) and me (rahil_f)
+
 Prototyping
 
 ./101pong x0 y0 z0 x1 y1 z1 n

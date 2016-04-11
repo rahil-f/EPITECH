@@ -1,3 +1,5 @@
+This project was made by my partner (grella_c) and me (rahil_f)
+
 Prototyping
 
 ./102cipher message key flag
